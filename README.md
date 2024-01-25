@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 ## Personal Accomplishments:
 
-### Participated in the 2023 Buddy Up Game Jam
+### Participated in the Buddy Up Game Jam: Winter 2023
 After being assigned the role of "Production Manager", I put my effort into developing relationships with the rest of the team, and figuring out how I could play a supporting role in the development of our game.
 I quickly realized that we had a great team, but no organization, so I put together a scrum board for the team to document features that needed to be developed, art and audio that needed to be created, as well as writing that needed to be done. I also created separate channels in our group chat so that the development chatter could be contained to various aspects of the game, such as code, art, audio, and storyline/writing.
 
