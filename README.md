@@ -40,7 +40,9 @@ Having spent a good portion of my professional time fighting with, and taking th
 The need for a mediator and manager was also quickly realized, as people don't always figure out healthy and supportive ways of communicating and working with each other right away. My background in management was extremely helpful in these times, as I was able to recognize the need, and bring the skills needed to the table to navigate difficult emotions from multiple people, and align everyone towards the same goal, in ways that give everyone the opportunity to do their best work.
 
 At the end of the 3 weeks, we had created a finished, (mostly-working) game, that we were proud to present, which was all we could ask for as a team of ~10 first-time game jammers.
+
 Play our game here:
+
 https://fakehiking.itch.io/plushiepanic
 
 
@@ -52,9 +54,11 @@ In the process of developing items, characters, and locations for the game, all 
 I learned how, and why, to self-host an instance of Stable Diffusion. I learned what models are, and how to use/train different models. I spent many hours practicing my prompts, both image-to-image prompts, as well as text-to-image prompts. Using this, I created many icons for the game's items, characters, and locations.
 
 Take a look at the code here:
+
 https://github.com/SeanDutt/metal-forge-tycoon
 
 Play the game here:
+
 https://metalty-da486.web.app/
 
 This exercise taught me a lot about hosting, version control, database manipulation, UI/UX, and gameplay loops.
