@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 ## 2023 Accomplishments:
 
-
-
-## Professional Accomplishments:
+## Professional:
 
 In 2023 I wrote over 500 test cases using jasmine, karma, and playwright.
 
@@ -29,7 +27,7 @@ In 2023 I wrote over 500 test cases using jasmine, karma, and playwright.
   - Enhanced communication channels to prevent similar incidents.
   - Implemented additional checks and balances in the testing and release process.
 
-## Personal Accomplishments:
+## Personal:
 
 ### Participated in the Buddy Up Game Jam: Winter 2023
 After being assigned the role of "Production Manager", I put my effort into developing relationships with the rest of the team, and figuring out how I could play a supporting role in the development of our game.
