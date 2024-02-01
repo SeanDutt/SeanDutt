@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 ## Professional Accomplishments:
 
-### Automated Testing Excellence
+In 2023 I wrote over 500 test cases using jasmine, karma, and playwright.
 
 - **Contributions:**
   - Implemented over 500 automated testing scenarios using Jasmine and Karma.
@@ -61,7 +61,7 @@ Play the game here:
 
 https://metalty-da486.web.app/
 
-This exercise taught me a lot about hosting, version control, database manipulation, UI/UX, and gameplay loops.
+This exercise taught me a lot about hosting, version control, database manipulation, UI/UX, gameplay loops, and AI art.
 
 
 ### Created a Spotify Playlist web app
@@ -78,44 +78,28 @@ If the app has been approved, you will be able to use it here:
 https://blendify-f4047.web.app/
 
 
-### Personal Project 4: Tailored Workout Web App
+### Tailored Workout Web App
+After moving to a different home, I was left without a personal trainer, so I decided to replace them with an app of my own (nothing could ever really replace them).
 
-- **Contributions:**
-  - Created a tailored workout web app featuring a ~30 minute HIIT workout.
-  - Designed user-friendly workout moves and dynamic routines.
-  - Emphasized ease of learning for users.
+Using vanilla javascript I created a web app that will randomly select a set of HIIT workouts, show me the set, and then walk me through them, one hy one, with the option of seeing a description of an exercise if I need it.
 
-- **Impact:**
-  - Introduced a user-friendly fitness solution with dynamic workout routines.
-  - Encouraged a healthy and active lifestyle.
+### Shopify Digital Storefront
+It happened. A family member asked if I could make a website for them.
 
-### Personal Project 5: Shopify Digital Storefront
+After meeting with them to talk about what they needed in their site, I decided that since their intent was to sell products, we should go with Shopify.
 
-- **Contributions:**
-  - Designed and managed a custom Shopify digital storefront for a family member.
-  - Populated the store with products and optimized product listings.
-  - Tracked user actions to analyze and improve sales.
-
-- **Impact:**
-  - Improved the online shopping experience for customers.
-  - Implemented strategies to enhance sales and user engagement.
+I learned how to use themes, customize themes, and how to apply custom code and styling. I also learned, and taught, how to list products, set up simple automation, manage the digital storefront, and search engine optimization.
 
 ## Collaboration & Mentorship:
 
 - Assisted team members in understanding and adopting automated testing.
 - Conducted workshops on testing best practices and Jasmine/Karma usage.
 - Reviewed and provided feedback on team members' testing implementations.
-- Provided leadership and guidance as the production manager during the game jam.
-
+  
 ## Design & Documentation:
 
 - Documented testing strategies and best practices for future reference.
 - Contributed to the development of design documents outlining the testing process.
-- Created processes and documentation for the game jam project.
-- Documented UI/UX and gameplay loop decisions for the web game.
-- Documented the development process and features for the Spotify Playlist Web App.
-- Created user-friendly guides and documentation for the Tailored Workout Web App.
-- Developed documentation for the Shopify Digital Storefront, including product listings and optimization strategies.
 
 ## What I Learned:
 
