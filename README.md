@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 year-in-review.
 
 ## 2023 Accomplishments:
-https://github.com/SeanDutt/SeanDutt/blob/main/README.md#participated-in-the-buddy-up-game-jam-winter-2023
+
 ## Professional:
 
 In 2023 I wrote over 500 test cases using jasmine, karma, and playwright.
