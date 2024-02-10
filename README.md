@@ -68,6 +68,8 @@ A problem I found myself facing quite frequently was what to listen to. Spotify 
 In an effort to solve this problem, I created an app that searches Spotify for artists, and allows you to select up to five. Once you have your artists selected, you can generate a playlist.
 Using an algorithm I created, the app will select a number of songs by, or including, each artist you provided, I call them "seed artists", and will create a playlist in your library that is 80% "seed artist" songs, and 20% recommendations based off of those selected artists.
 
+![image](https://github.com/SeanDutt/SeanDutt/assets/80294286/28452562-02f4-4514-a72b-d31871171366)
+
 This app has allowed my partner, a handful of friends, and I, the ability to select a handful of artists we're feeling like listening to that day, and create a very quick, on the fly, playlist that has a "vibe" we were going for.
 The app, Blendify, is currently in Spotify's app review process, and has the possibility of being a publicly available app.
 As of writing this Jan 24th, 2024, the app is not yet approved, and so it only allows 25 users I approve.
