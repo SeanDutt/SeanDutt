@@ -39,6 +39,8 @@ The need for a mediator and manager was also quickly realized, as people don't a
 
 At the end of the 3 weeks, we had created a finished, (mostly-working) game, that we were proud to present, which was all we could ask for as a team of ~10 first-time game jammers.
 
+![image](https://github.com/SeanDutt/SeanDutt/assets/80294286/0b736071-6346-495a-a32e-da9594b2138b)
+
 Play our game here:
 
 https://fakehiking.itch.io/plushiepanic
@@ -50,6 +52,8 @@ Using Typescript, Firebase hosting/authentication, and Firebase's database (Fire
 
 In the process of developing items, characters, and locations for the game, all of which needed their own icons, I made the VERY CONTROVERSIAL decision to utilize an AI art tool.
 I learned how, and why, to self-host an instance of Stable Diffusion. I learned what models are, and how to use/train different models. I spent many hours practicing my prompts, both image-to-image prompts, as well as text-to-image prompts. Using this, I created many icons for the game's items, characters, and locations.
+
+![image](https://github.com/SeanDutt/SeanDutt/assets/80294286/0b4d273c-3512-4a96-9bf9-e50293a43d53)
 
 Take a look at the code here:
 
