@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 year-in-review.
 
-## 2023 Accomplishments:
+## 2023 Year in review:
 
 ## Professional accomplishments:
 
@@ -10,15 +10,16 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 - Helped design the QA process for a product's development team.
 - Developed, and maintained, a culture of writing automated tests for your code before you merge it.
 
-### Learning Opportunity Leadership
+### Untested Code Release
+Encountered a critical issue where untested changes were inadvertently released into the live product environment.
+Arranged a team meeting to analyze the situation and devise preventive measures.
+Established a new release protocol mandating three-person approval to prevent future occurrences of untested code deployment.
 
-- **Challenge:**
-  - Faced a situation where untested changes were released in a product.
-  - Turned the mistake into a learning opportunity for the team.
 
-- **Learnings:**
-  - Enhanced communication channels to prevent similar incidents.
-  - Implemented additional checks and balances in the testing and release process.
+### Code Rollback
+Had a scenario where recent changes made to the product were beneficial for its future trajectory, but were incompatible with the current use-case, resulting in a meeting being called by product stakeholders asking to rollback the changes.
+Facilitated a de-briefing discussion with the development team to talk about the rationale for the recent changes, emphasizing the importance of our changes towards the long-term vision and future requirements of the product.
+Concluded that while the implemented changes were strategically sound for the product's trajectory, they were unsuitable for now, and should be kept in mind for when the current use-case of the product is ready to change.
 
 ## Personal accomplishments:
 
