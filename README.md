@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 ## 2024 So far:
 
-### Participates in the Buddy Up Game Jam: Winter 2024
+### Participated in the Buddy Up Game Jam: Winter 2024
 My second time participating in this jam. This time around I was not assigned a team, and was left to go and find one. After getting a good idea of a few team options, I joined a team with 6 others as the primary developer.
 I led the team in their first Godot project, and we quickly got to work on brainstorming our game idea for the theme: "Renewal". We came up with a solid game loop, started work on our game design document, and I got to work setting up a basic scene.
 The planning phase with the team gave me a very good idea of the "events" that would need to occur in the game, so that took a lot of the work out of the code writing process, leaving me with more time to polish the game.
