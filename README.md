@@ -1,6 +1,6 @@
 # Hello, I'm Sean 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 year-in-review.
+Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 year-in-review, as well as my proudest accomplishments (so far) in 2024.
 
 ## 2023 Year in review:
 
