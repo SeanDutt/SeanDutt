@@ -2,6 +2,23 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 year-in-review, as well as my proudest accomplishments (so far) in 2024.
 
+## 2024 So far:
+
+### Participates in the Buddy Up Game Jam: Winter 2024
+My second time participating in this jam. This time around I was not assigned a team, and was left to go and find one. After getting a good idea of a few team options, I joined a team with 6 others as the primary developer.
+I led the team in their first Godot project, and we quickly got to work on brainstorming our game idea for the theme: "Renewal". We came up with a solid game loop, started work on our game design document, and I got to work setting up a basic scene.
+The planning phase with the team gave me a very good idea of the "events" that would need to occur in the game, so that took a lot of the work out of the code writing process, leaving me with more time to polish the game.
+
+At the end of the jam, and the community ranking phase, we were told we got 2nd place (out of 61 entries)!
+This was an incredibly proud moment for me, and it really proved to myself that this is something that could be taken on as more than a hobby, should the opportunity come along.
+
+![image](https://github.com/SeanDutt/SeanDutt/assets/80294286/659ce608-3b3b-4c74-8137-8a7df59b7e6d)
+
+Play our game here (requires download):
+
+https://d3nji.itch.io/helfys-cure-corner
+
+
 ## 2023 Year in review:
 
 ## Professional accomplishments:
