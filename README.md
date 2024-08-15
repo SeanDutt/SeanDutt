@@ -4,6 +4,18 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 ## 2024 So far:
 
+
+### Participated in the PIGSquad Summer Slow Jam, July
+After joining up with a couple of teammates from past jams, we found another couple artists, and put together this short game for a Portland-based jam hosting and game dev community.
+A little bit of scope creep, and some unavoidable circumstances led to us only having one level, but the game was still received well, and was great practice for creating gameplay loops, and data structuring.
+
+![image](https://github.com/user-attachments/assets/1edc7104-6561-49cc-a9fe-bffa28793593)
+
+Play our game here (requires download):
+
+https://dutt1ez.itch.io/cryptid-chaos
+
+
 ### Participated in the Buddy Up Game Jam: Winter 2024
 My second time participating in this jam. This time around I was not assigned a team, and was left to go and find one. After getting a good idea of a few team options, I joined a team with 6 others as the primary developer.
 I led the team in their first Godot project, and we quickly got to work on brainstorming our game idea for the theme: "Renewal". We came up with a solid game loop, started work on our game design document, and I got to work setting up a basic scene.
