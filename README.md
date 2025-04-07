@@ -1,8 +1,8 @@
 # Hello, I'm Sean 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 year-in-review, as well as my proudest accomplishments (so far) in 2024.
+Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 and 2024 year-in-review.
 
-## 2024 So far:
+## 2024 Year in review:
 
 
 ### Participated in the PIGSquad Summer Slow Jam, July
