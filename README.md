@@ -2,6 +2,30 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a diverse skill set and a love for creating innovative solutions. Below, you'll find my 2023 and 2024 year-in-review.
 
+
+## 2025 So far:
+### Released Truckaotic
+Worked as a lead developer on a team for the Godot Wild Jam #80.
+We submitted a 3D first-person game where you repossess items from a house, trying to load everything you can into your truck before the neighborhood burglars beat you to it.
+
+![image](https://github.com/user-attachments/assets/0fdd4279-e107-48de-b89d-525911b3b7f0)
+
+Play the game here (requires download):
+
+https://zxfrigginc.itch.io/truckaotic
+
+
+### Developed Dino Trivia
+A friend I know through game jams invited me to participate in one they were hosting themselves, called the Winter Break Jam.
+I partnered up with a sound designer and an artist, both of whom I've worked with before, and we came up with and released Dino Trivia; a quick game testing and teaching you about dinosaurs, with a cute story along the way.
+
+![image](https://github.com/user-attachments/assets/86927f2b-7190-490c-8951-2874fa31e269)
+
+Play the game here (in browser):
+
+https://dutt1ez.itch.io/dino-trivia
+
+
 ## 2024 Year in review:
 
 
