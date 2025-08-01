@@ -4,6 +4,26 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a diverse 
 
 
 ## 2025 So far:
+
+### End-to-end AI features
+Built three AI features across the full stack; writing prompts, fine-tuning custom models, Java controllers, TypeScript services, and Angular components.
+Designed and implemented 3 AI-driven tools from scratch using a shared Angular chatbot component. 
+- Natural language event scheduler that converts user input to a database-ready format
+- Custom event pricing assistant using a fine-tuned model
+- A plain-English-to-query translator for our proprietary query language.
+
+
+### Mage Ya Look
+Working with several of the same people I worked with on Truckaotic, we created this 3D first-person cleaning/trap-avoiding game for Godot Wild Jam #82.
+This time around I worked as a lead devloper, and created the UI for the game.
+
+<img width="1912" height="1071" alt="image" src="https://github.com/user-attachments/assets/c522547b-5288-4541-83bb-161840b78172" />
+
+Play the game here (requires download):
+
+https://zxfrigginc.itch.io/mage-ya-look
+
+
 ### Released Truckaotic
 Worked as a lead developer on a team for the Godot Wild Jam #80.
 We submitted a 3D first-person game where you repossess items from a house, trying to load everything you can into your truck before the neighborhood burglars beat you to it.
