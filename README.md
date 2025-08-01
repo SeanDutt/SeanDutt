@@ -15,7 +15,7 @@ Designed and implemented 3 AI-driven tools from scratch using a shared Angular c
 
 ### Mage Ya Look
 Working with several of the same people I worked with on Truckaotic, we created this 3D first-person cleaning/trap-avoiding game for Godot Wild Jam #82.
-This time around I worked as a lead devloper, and created the UI for the game.
+This time around I worked as a lead devloper, created the UI for the game, and created multiple shaders to create a retro feel, and "juice" up some game assets.
 
 <img width="1912" height="1071" alt="image" src="https://github.com/user-attachments/assets/c522547b-5288-4541-83bb-161840b78172" />
 
